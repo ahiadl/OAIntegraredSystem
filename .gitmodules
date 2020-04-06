@@ -1,0 +1,3 @@
+[submodule "AcoustoOptics"]
+	path = AcoustoOptics
+	url = https://github.com/ahiadl/AcoustoOptics.git
